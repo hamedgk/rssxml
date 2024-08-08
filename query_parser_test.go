@@ -47,7 +47,7 @@ var table = []struct {
 	},
 }
 
-func TestQuery(t *testing.T) {
+func TestQueryParser(t *testing.T) {
 	for _, c := range table {
 		expected := ParseRSSQuery(c.input)
 		if !reflect.DeepEqual(expected, c.expected) {
