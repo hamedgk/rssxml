@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; World &gt; Middle East</title>
+    <link>https://www.nytimes.com/section/world/middleeast</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2024 The New York Times Company</copyright>
+    <lastBuildDate>Wed, 07 Aug 2024 00:07:39 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Aug 2024 23:20:01 +0000</pubDate>
+    <image>
+      <title>NYT &gt; World &gt; Middle East</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/world/middleeast</link>
+    </image>
+    <item>
+      <title>Hamas Elevates Gaza Leader Who Planned Oct. 7 Attacks to Top Post</title>
+      <link>https://www.nytimes.com/2024/08/06/world/middleeast/hamas-yahya-sinwar-promoted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/06/world/middleeast/hamas-yahya-sinwar-promoted.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/06/world/middleeast/hamas-yahya-sinwar-promoted.html" rel="standout"></atom:link>
+      <description>The selection of Yahya Sinwar, a prime target of Israeli forces, to replace the assassinated Ismail Haniyeh consolidates authority in the hands of a hard-liner who is in hiding.</description>
+      <dc:creator>Adam Rasgon, Aaron Boxerman, Euan Ward and Michael Levenson</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 23:20:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/06/multimedia/06mideast-crisis-sinwar-photo-plwh/06mideast-crisis-sinwar-photo-plwh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Yahya Sinwar will replace Ismail Haniyeh as the next head of Hamas’s political office. He is seen here in Gaza City in 2023.</media:description>
+    </item>
+    <item>
+      <title>Who Is Yahya Sinwar, Hamas’s New Political Leader?</title>
+      <link>https://www.nytimes.com/2024/08/06/world/middleeast/yahya-sinwar-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/06/world/middleeast/yahya-sinwar-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/06/world/middleeast/yahya-sinwar-hamas.html" rel="standout"></atom:link>
+      <description>Mr. Sinwar, one of the main architects of the Oct. 7 Hamas-led attack on Israel, has spent decades with the militant group, working his way to the top of its leadership.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 22:57:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/06/multimedia/06mideast-crisis-sinwar-bio01-pltq/06mideast-crisis-sinwar-bio01-pltq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Yahya Sinwar, in Gaza City in 2023, has long been viewed as one of Hamas’s most influential leaders, wielding outsize power while remaining mostly in hiding in underground tunnels.</media:description>
+    </item>
+    <item>
+      <title>Iran Executes Protester Reza Rasaei After Trial Condemned by Rights Groups</title>
+      <link>https://www.nytimes.com/2024/08/06/world/middleeast/iran-execution-protester-reza-rasaei.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/06/world/middleeast/iran-execution-protester-reza-rasaei.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/06/world/middleeast/iran-execution-protester-reza-rasaei.html" rel="standout"></atom:link>
+      <description>Weeks after Iran elected a reformist leader, the authorities executed Reza Rasaei, who was arrested during protests that swept the country in 2022.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 17:13:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amnesty International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reza Rasaei</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/06/multimedia/06Iran-Execution-bfgq/06Iran-Execution-bfgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Wana News Agency</media:credit>
+      <media:description>Antigovernment protests swept across Iran in 2022. A man who was arrested during that period was executed by the Iranian authorities on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Waiting for a Wider War, Lebanese Civilians Feel Helpless</title>
+      <link>https://www.nytimes.com/2024/08/06/world/middleeast/lebanon-hezbollah-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/06/world/middleeast/lebanon-hezbollah-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/06/world/middleeast/lebanon-hezbollah-israel.html" rel="standout"></atom:link>
+      <description>Hezbollah’s conflict with Israel has already damaged south Lebanon. Now it could escalate, regardless of what anyone else in Lebanon thinks.</description>
+      <dc:creator>Ben Hubbard, Hwaida Saad and Diego Ibarra Sanchez</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 08:54:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/00lebanon-mood-disptach-01-vjkz-promo/00lebanon-mood-disptach-01-vjkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah members and supporters mourned the deaths of Amer Dagher and his two sisters, Fawzia and Taghreed, who were killed in their home in an Israeli attack on July 15.</media:description>
+    </item>
+    <item>
+      <title>As Israel Braces for Iran’s Retaliation, Diplomats Scramble</title>
+      <link>https://www.nytimes.com/2024/08/05/world/middleeast/israel-hamas-iran-retaliation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/05/world/middleeast/israel-hamas-iran-retaliation.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/05/world/middleeast/israel-hamas-iran-retaliation.html" rel="standout"></atom:link>
+      <description>President Biden convened his national security team and spoke with King Abdullah II of Jordan, and foreign ministers from Islamic countries plan to gather in Saudi Arabia on Wednesday.</description>
+      <dc:creator>Vivian Nereim and Farnaz Fassihi</dc:creator>
+      <pubDate>Mon, 05 Aug 2024 22:46:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Organization of Islamic Cooperation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallant, Yoav</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Halevi, Herzl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abdullah II, King of Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Austin, Lloyd J III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/05/multimedia/05mideast-crisis-leadall-01-qhwf/05mideast-crisis-leadall-01-qhwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Supporters of Hamas and Hezbollah drove through the streets of Saida, Lebanon, following tributes for the slain Hamas leader Ismail Haniyeh and the Hezbollah commander Fuad Shukr on Friday.</media:description>
+    </item>
+    <item>
+      <title>U.S. Troops in Iraq Are Wounded in Rocket Attack on Air Base</title>
+      <link>https://www.nytimes.com/2024/08/05/world/middleeast/iraq-us-troops-iran-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/05/world/middleeast/iraq-us-troops-iran-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/05/world/middleeast/iraq-us-troops-iran-attack.html" rel="standout"></atom:link>
+      <description>The attack late Monday resembled previous ones carried out by Iraqi armed groups, backed by Iran, which have targeted the base repeatedly over the past nine months.</description>
+      <dc:creator>Alissa J. Rubin and Helene Cooper</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 11:12:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+    </item>
+    <item>
+      <title>U.N. Fires Nine Aid Workers Accused of Taking Part in Oct. 7 Attack, but Clears 10 Others</title>
+      <link>https://www.nytimes.com/2024/08/05/world/middleeast/unrwa-oct-7-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/05/world/middleeast/unrwa-oct-7-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/05/world/middleeast/unrwa-oct-7-attack.html" rel="standout"></atom:link>
+      <description>Israel accused 19 UNRWA employees of playing a role in the Hamas-led raids that set off the war. Investigators cleared 10 for lack of evidence, but said the other nine “may have been involved.”</description>
+      <dc:creator>Ben Hubbard and Ephrat Livni</dc:creator>
+      <pubDate>Mon, 05 Aug 2024 22:21:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Relief and Works Agency</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/05/multimedia/05mideast-crisis-UNRWA-investigation-photo-gvzm/05mideast-crisis-UNRWA-investigation-photo-gvzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Displaced Palestinians receiving food aid at the UNRWA center in Rafah, Gaza, in January.</media:description>
+    </item>
+    <item>
+      <title>Why Is Iran Expected to Attack Israel? Here’s What to Know.</title>
+      <link>https://www.nytimes.com/article/iran-israel-attack-strikes-why.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/iran-israel-attack-strikes-why.html</guid>
+      <atom:link href="https://www.nytimes.com/article/iran-israel-attack-strikes-why.html" rel="standout"></atom:link>
+      <description>Iran has vowed to retaliate for the killing of a senior Hamas leader in Tehran last week, an attack for which it has blamed Israel.</description>
+      <dc:creator>Hiba Yazbek</dc:creator>
+      <pubDate>Tue, 06 Aug 2024 09:40:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/05/multimedia/5mideast-crisis-iran-israel-wwk-1-gwlp/5mideast-crisis-iran-israel-wwk-1-gwlp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Iranians gathered in Tehran last week after the assassination of Ismail Haniyeh, a top Hamas leader.</media:description>
+    </item>
+    <item>
+      <title>Israeli Strike on Gaza Shelter Kills at Least 30</title>
+      <link>https://www.nytimes.com/2024/08/04/world/middleeast/israel-gaza-strike-shelter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/world/middleeast/israel-gaza-strike-shelter.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/04/world/middleeast/israel-gaza-strike-shelter.html" rel="standout"></atom:link>
+      <description>An Israeli airstrike in Gaza City killed at least 30 people, according to a Palestinian emergency agency and local media outlets. Israel said it targeted Hamas “command and control centers.”</description>
+      <dc:creator>Vivian Yee, Iyad Abuheweila and Ameera Harouda</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 19:58:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <media:content height="697" medium="image" url="https://static01.nyt.com/images/2024/08/04/multimedia/04mideast-crisis-gaza-strike-cvqj/04mideast-crisis-gaza-strike-cvqj-mediumSquareAt3X.jpg" width="697"></media:content>
+      <media:credit>Mahmoud Issa/Reuters</media:credit>
+      <media:description>In a still image taken from a video, Palestinians carried a person at the site of an Israeli strike on Sunday on a school sheltering displaced people in Gaza City.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Says Israel Was Already in a ‘War Against Iran’s Evil Axis’</title>
+      <link>https://www.nytimes.com/2024/08/04/world/middleeast/netanyahu-israel-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/world/middleeast/netanyahu-israel-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/04/world/middleeast/netanyahu-israel-iran-war.html" rel="standout"></atom:link>
+      <description>A number of international airlines have suspended flights to and from Israel pending expected retaliation against the country by Iran and its Lebanese proxy, Hezbollah.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 17:26:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hamas May Emerge Battered, but Not Beaten, From Israel’s Latest Blows</title>
+      <link>https://www.nytimes.com/2024/08/04/world/middleeast/hamas-israel-gaza-future.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/world/middleeast/hamas-israel-gaza-future.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/04/world/middleeast/hamas-israel-gaza-future.html" rel="standout"></atom:link>
+      <description>The assassinations of two Hamas leaders may be a short-term setback, analysts say, not enough to prevent the group from re-emerging intact — and possibly more radicalized.</description>
+      <dc:creator>Erika Solomon</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 20:47:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/03/multimedia/03hamas-future-tjvf/03hamas-future-tjvf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hamas supporters parading with empty coffins in a symbolic funeral for Ismail Haniyeh, a top Hamas leader, on Friday in Beirut, Lebanon.</media:description>
+    </item>
+    <item>
+      <title>Two are dead after a stabbing attack near Tel Aviv.</title>
+      <link>https://www.nytimes.com/2024/08/04/world/middleeast/one-dead-three-injured-in-stabbing-attack-near-tel-aviv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/world/middleeast/one-dead-three-injured-in-stabbing-attack-near-tel-aviv.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/04/world/middleeast/one-dead-three-injured-in-stabbing-attack-near-tel-aviv.html" rel="standout"></atom:link>
+      <description>Officials called the Sunday morning attack “complex and difficult,” with the victims in separate but nearby locations. The suspected attacker also died.</description>
+      <dc:creator>Yan Zhuang</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 09:56:11 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/04/multimedia/04mideast-crisis-telaviv-stabbing-lhpt/04mideast-crisis-telaviv-stabbing-lhpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Moraes/Reuters</media:credit>
+      <media:description>Emergency responders at the scene of a stabbing in Holon, Israel, on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Hezbollah and Israel Exchange Limited Fire Over the Border</title>
+      <link>https://www.nytimes.com/2024/08/04/world/middleeast/israel-hezbollah-airstrike-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/04/world/middleeast/israel-hezbollah-airstrike-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/04/world/middleeast/israel-hezbollah-airstrike-attack.html" rel="standout"></atom:link>
+      <description>The attack from Lebanon did not appear to be the major retaliation that Hezbollah has threatened in the wake of the Israeli assassination of a senior commander.</description>
+      <dc:creator>Vivek Shankar</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 15:14:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/04/multimedia/04mideast-crisis-israel-hezbollah-jcwm/04mideast-crisis-israel-hezbollah-jcwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rabih Daher/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke billowing from the site of an Israeli strike on the southern Lebanese village of Taybeh on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Can Kamala Harris Win Back Arab American Voters?</title>
+      <link>https://www.nytimes.com/2024/08/03/us/politics/harris-israel-arab-american-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/03/us/politics/harris-israel-arab-american-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/03/us/politics/harris-israel-arab-american-voters.html" rel="standout"></atom:link>
+      <description>Vice President Kamala Harris has not strayed from President Biden on Israel policy, but she has taken a stronger tone on the suffering of Palestinians.</description>
+      <dc:creator>Hamed Aleaziz</dc:creator>
+      <pubDate>Mon, 05 Aug 2024 14:57:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arab-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/00dc-harris-gaza-01-gvkp/00dc-harris-gaza-01-gvkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brittany Greeson for The New York Times</media:credit>
+      <media:description>“I was torn,” Muna Jondy said about voting for President Biden. Vice President Kamala Harris’s ascension helped ease those concerns.</media:description>
+    </item>
+    <item>
+      <title>Killing of Hamas Leader Fuels More Tension Between Biden and Netanyahu</title>
+      <link>https://www.nytimes.com/2024/08/03/us/politics/us-israel-hamas-assassination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/03/us/politics/us-israel-hamas-assassination.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/03/us/politics/us-israel-hamas-assassination.html" rel="standout"></atom:link>
+      <description>President Biden has expressed concern that the circumstances of the assassination have thrown cease-fire talks into doubt, but Prime Minister Benjamin Netanyahu of Israel rejects that idea, officials say.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 15:21:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/03/multimedia/03dc-US-ISRAEL-Netanyahu-clmh/03dc-US-ISRAEL-Netanyahu-clmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel has clashed with President Biden over Israel’s prosecution of the war in Gaza. </media:description>
+    </item>
+    <item>
+      <title>Israel Conducts Airstrikes on West Bank, Killing 3 Hamas Military Wing Members</title>
+      <link>https://www.nytimes.com/2024/08/03/world/middleeast/israel-airstrikes-gaza-hamas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/03/world/middleeast/israel-airstrikes-gaza-hamas.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/03/world/middleeast/israel-airstrikes-gaza-hamas.html" rel="standout"></atom:link>
+      <description>Israel hit a town in the occupied West Bank with two airstrikes on Saturday in the latest use of a once-rare tactic in the densely populated area.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Sat, 03 Aug 2024 19:38:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palestinian Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/03/multimedia/03mideast-crisis-west-bank-qpgj/03mideast-crisis-west-bank-qpgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Majdi Mohammed/Associated Press</media:credit>
+      <media:description>A car was destroyed in a drone strike in the West Bank on Saturday.</media:description>
+    </item>
+    <item>
+      <title>The Pentagon promises to help defend Israel.</title>
+      <link>https://www.nytimes.com/2024/08/03/world/middleeast/the-pentagon-promises-to-help-defend-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/03/world/middleeast/the-pentagon-promises-to-help-defend-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/03/world/middleeast/the-pentagon-promises-to-help-defend-israel.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Victoria Kim and Eric Schmitt</dc:creator>
+      <pubDate>Sat, 03 Aug 2024 08:38:26 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/03/multimedia/03mideast-crisis-pinned-gphm/03mideast-crisis-pinned-gphm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>Defense Secretary Lloyd J. Austin III in Washington in May.</media:description>
+    </item>
+    <item>
+      <title>Iran Arrests Dozens After Killing of Hamas Leader Haniyeh</title>
+      <link>https://www.nytimes.com/2024/08/03/world/middleeast/iran-security-response-hamas-assassination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/03/world/middleeast/iran-security-response-hamas-assassination.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/03/world/middleeast/iran-security-response-hamas-assassination.html" rel="standout"></atom:link>
+      <description>Iran has begun a sweeping investigation into the assassination of Ismail Haniyeh, with its intensity a sign of how damaging and shocking the security failure was.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 14:11:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/03/multimedia/03iran-security-zphq/03iran-security-zphq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>The funeral for Ismail Haniyeh in Tehran on Friday; the Hamas leader was assassinated in Iran’s capital on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Alongside the Trump-Russia Inquiry, a Lesser-Known Look at Egyptian Influence</title>
+      <link>https://www.nytimes.com/2024/08/02/us/politics/trump-mueller-egypt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/02/us/politics/trump-mueller-egypt.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/02/us/politics/trump-mueller-egypt.html" rel="standout"></atom:link>
+      <description>The Justice Department and special counsel Robert Mueller investigated whether a Trump adviser was part of an Egyptian plan, never proven, to funnel $10 million to the 2016 Trump campaign.</description>
+      <dc:creator>Michael S. Schmidt, Adam Goldman and Glenn Thrush</dc:creator>
+      <pubDate>Sat, 03 Aug 2024 18:26:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phares, Walid</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/02dc-trump-egypt-gphl/02dc-trump-egypt-gphl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <media:description>President Donald J. Trump and President Abdel Fattah el-Sisi of Egypt outside the White House in 2017.</media:description>
+    </item>
+    <item>
+      <title>Ismail Haniyeh, Hamas Leader, Is Buried in Qatar Amid Mourning in Turkey and Gaza</title>
+      <link>https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-haniyeh-funeral-qatar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-haniyeh-funeral-qatar.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-haniyeh-funeral-qatar.html" rel="standout"></atom:link>
+      <description>Few Palestinians appeared to heed Hamas’s call for a “day of anger” to condemn the killing of Ismail Haniyeh and Israel’s bombardment of the enclave.</description>
+      <dc:creator>Raja Abdulrahim, Victoria Kim and Michael Levenson</dc:creator>
+      <pubDate>Fri, 02 Aug 2024 21:52:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shukr, Fuad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/02mideast-crisis-leadall-01-wjzt/02mideast-crisis-leadall-01-wjzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hamas supporters paraded on Tuesday in Beirut, Lebanon, with empty coffins in a symbolic funeral for the Hamas leader Ismail Haniyeh.</media:description>
+    </item>
+    <item>
+      <title>Families of Hostages in Gaza Despair As Assassination Halts Talks</title>
+      <link>https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-hostage-release-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-hostage-release-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/02/world/middleeast/israel-hamas-hostage-release-deal.html" rel="standout"></atom:link>
+      <description>The recent assassination of Ismail Haniyeh, the leader of Hamas’s political branch, halted negotiations for a cease-fire that would bring home the hostages held in Gaza.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Fri, 02 Aug 2024 22:09:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/02mideast-crisis-israel-hostages-cjpt/02mideast-crisis-israel-hostages-cjpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ilan Rosenberg/Reuters</media:credit>
+      <media:description>Supporters of the hostages being held in Gaza released 300 lanterns Thursday in Tel Aviv to mark 300 days since the deadly Oct. 7 attack.</media:description>
+    </item>
+    <item>
+      <title>U.S. to Send More Combat Aircraft to Middle East as Iran Threatens Israel</title>
+      <link>https://www.nytimes.com/2024/08/02/world/middleeast/us-iran-israel-aircraft.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/02/world/middleeast/us-iran-israel-aircraft.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/02/world/middleeast/us-iran-israel-aircraft.html" rel="standout"></atom:link>
+      <description>Defense Secretary Lloyd J. Austin III directed the new deployments after speaking with his Israeli counterpart.</description>
+      <dc:creator>Eric Schmitt and Helene Cooper</dc:creator>
+      <pubDate>Sat, 03 Aug 2024 13:25:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Air Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/02/multimedia/02dc-fighters-ktlh/02dc-fighters-ktlh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Song Kyung-Seok</media:credit>
+      <media:description>The aircraft carrier Theodore Roosevelt, seen in South Korea in June, is now steaming near the Arabian Gulf, equipped with about 40 F/A-18 Super Hornet and F-35 attack planes. </media:description>
+    </item>
+    <item>
+      <title>Many of Gaza’s Medical Workers Have Been Detained or Killed</title>
+      <link>https://www.nytimes.com/2024/08/02/world/middleeast/gaza-doctors-medical-workers-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/02/world/middleeast/gaza-doctors-medical-workers-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/02/world/middleeast/gaza-doctors-medical-workers-israel.html" rel="standout"></atom:link>
+      <description>Out of a prewar total of about 20,000 health workers, 500 have been killed in the war, according to the W.H.O., and more than 300 are in Israeli detention, Gaza’s health ministry says.</description>
+      <dc:creator>Anjana Sankar</dc:creator>
+      <pubDate>Fri, 02 Aug 2024 16:51:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Care Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Shifa Hospital (Gaza Strip)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amnesty International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/11/multimedia/00mideast-crisis-missing-doctors-01-lkmb/00mideast-crisis-missing-doctors-01-lkmb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haitham Imad/EPA, via Shutterstock</media:credit>
+      <media:description>A doctor inspecting damage at Nasser Hospital, in Khan Younis, Gaza. </media:description>
+    </item>
+    <item>
+      <title>Israel Confirms Death of Muhammad Deif, Who It Says Helped Planned Hamas Attack</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/israel-hamas-muhammad-deif.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/israel-hamas-muhammad-deif.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/israel-hamas-muhammad-deif.html" rel="standout"></atom:link>
+      <description>The Israeli military said it had killed Muhammad Deif, who it called a planner of the Oct. 7 attack on Israel, which would make him the third Iranian-backed militant leader slain in recent days.</description>
+      <dc:creator>Aaron Boxerman, Farnaz Fassihi, Euan Ward and Michael Levenson</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 22:22:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shukr, Fuad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01mideast-crisis-leadall-01-mhfv/01mideast-crisis-leadall-01-mhfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Hezbollah supporters on Thursday carried the coffin of a commander, Fuad Shukr, who was killed in an Israeli airstrike in the southern suburbs of Beirut.</media:description>
+    </item>
+    <item>
+      <title>Hezbollah Leader Threatens Retaliation Against Israel After Airstrike Near Beirut</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/hezbollah-israel-retaliation-hassan-nasrallah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/hezbollah-israel-retaliation-hassan-nasrallah.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/hezbollah-israel-retaliation-hassan-nasrallah.html" rel="standout"></atom:link>
+      <description>Nasrallah delivered a televised address at the funeral of a Hezbollah commander who was killed in an Israeli strike in suburban Beirut.</description>
+      <dc:creator>Euan Ward</dc:creator>
+      <pubDate>Fri, 02 Aug 2024 13:36:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasrallah, Hassan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01mideast-crisis-nasrallah-speech-jqbw/01mideast-crisis-nasrallah-speech-jqbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>The leader of the Lebanese militant group Hezbollah, Hassan Nasrallah, seen on a video screen at the funeral for Fuad Shukr, a Hezbollah commander, in Beirut, Lebanon, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>How Hamas Leader Ismail Haniyeh Was Killed in Iran</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/how-hamas-leader-haniyeh-killed-iran-bomb.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/how-hamas-leader-haniyeh-killed-iran-bomb.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/how-hamas-leader-haniyeh-killed-iran-bomb.html" rel="standout"></atom:link>
+      <description>An explosive device hidden in a heavily guarded complex where Ismail Haniyeh was known to stay in Iran was what killed him, according to a Times investigation.</description>
+      <dc:creator>Ronen Bergman, Mark Mazzetti and Farnaz Fassihi</dc:creator>
+      <pubDate>Sun, 04 Aug 2024 14:12:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mossad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+    </item>
+    <item>
+      <title>Security Concerns Grow for Israeli Olympians in Paris</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/olympics-paris-israel-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/olympics-paris-israel-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/olympics-paris-israel-security.html" rel="standout"></atom:link>
+      <description>Concerns for the Israeli team — which has been shrouded in protection at every Games since 1972 — have substantially increased since the Oct. 7 terrorist attacks and the war in Gaza.</description>
+      <dc:creator>Talya Minsberg and Johnatan Reiss</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 21:49:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/31/multimedia/31mideast-crisis-security-sub-hmpv/31mideast-crisis-security-sub-hmpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>James Hill for The New York Times</media:credit>
+      <media:description>Security officers before a soccer game last week at the Olympics in Paris.</media:description>
+    </item>
+    <item>
+      <title>Fears of Wider Mideast Conflict Deepen, With U.S. Seen as ‘Not in Control’</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/middle-east-israel-iran-hezbollah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/middle-east-israel-iran-hezbollah.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/middle-east-israel-iran-hezbollah.html" rel="standout"></atom:link>
+      <description>American officials said they had no advance warning of the attack on the Hamas leader in Iran, raising worries of a power vacuum that could lead to a broader geopolitical crisis.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 11:21:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel Proxy Conflict</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shukr, Fuad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/01/multimedia/01mideast-global-01-mcwv/01mideast-global-01-mcwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>People in Tehran on Wednesday held Iranian and Palestinian flags and images of Ismail Haniyeh, the Hamas leader who was killed in the city that morning.</media:description>
+    </item>
+    <item>
+      <title>Muhammad Deif, a Top Hamas Commander, Is Dead, Israel Says</title>
+      <link>https://www.nytimes.com/2024/08/01/world/middleeast/muhammad-deif-hamas-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/08/01/world/middleeast/muhammad-deif-hamas-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/08/01/world/middleeast/muhammad-deif-hamas-death.html" rel="standout"></atom:link>
+      <description>Mr. Deif has survived several previous Israeli assassination attempts and has been the No. 2 Hamas leader in Gaza. Israel said it killed him in a strike last month in southern Gaza.</description>
+      <dc:creator>Adam Rasgon and Aaron Boxerman</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 13:47:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <media:content height="1493" medium="image" url="https://static01.nyt.com/images/2024/07/16/multimedia/00mideast-crisis-deif-HFO-deif-promo/00mideast-crisis-deif-HFO-1-hwgb-mediumSquareAt3X.jpg" width="1492"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Iran’s Options for Retaliation Risk Escalating Middle East Crisis</title>
+      <link>https://www.nytimes.com/2024/07/31/us/politics/iran-retaliation-risk-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/us/politics/iran-retaliation-risk-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/us/politics/iran-retaliation-risk-middle-east.html" rel="standout"></atom:link>
+      <description>The killing of Hamas’s political leader in Tehran was a humiliating security failure for the Iranian government.</description>
+      <dc:creator>David E. Sanger and Farnaz Fassihi</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 02:03:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pezeshkian, Masoud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31dc-prexy-gcqh/31dc-prexy-gcqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>President Masoud Pezeshkian of Iran during his swearing-in ceremony in Tehran on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Assassination of a top Hamas leader spurs rallies worldwide.</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/assassination-of-a-top-hamas-leader-spurs-rallies-worldwide.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/assassination-of-a-top-hamas-leader-spurs-rallies-worldwide.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/assassination-of-a-top-hamas-leader-spurs-rallies-worldwide.html" rel="standout"></atom:link>
+      <description>.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 23:39:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+    </item>
+    <item>
+      <title>Iran and Hamas Blame Israel for Killing of Ismail Haniyeh, and Vow Revenge</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/israel-hamas-hezbollah-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/israel-hamas-hezbollah-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/israel-hamas-hezbollah-iran.html" rel="standout"></atom:link>
+      <description>The deadly strike on Ismail Haniyeh in Tehran threatened to further inflame the region and derail negotiations aimed at reaching a cease-fire in Gaza.</description>
+      <dc:creator>Patrick Kingsley, Adam Rasgon, Farnaz Fassihi and Ronen Bergman</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 03:20:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shukr, Fuad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-leadall-01-mpvq/31mideast-crisis-leadall-01-mpvq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Carrying Palestinian flags and chanting “death to Israel” in Tehran on Wednesday, in protest over the assassination of Ismail Haniyeh, a Hamas leader.</media:description>
+    </item>
+    <item>
+      <title>Back-to-Back Assassinations in Middle East Scramble Biden’s Hopes for Peace</title>
+      <link>https://www.nytimes.com/2024/07/31/us/politics/assassinations-middle-east-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/us/politics/assassinations-middle-east-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/us/politics/assassinations-middle-east-biden.html" rel="standout"></atom:link>
+      <description>President Biden had anticipated using his remaining time in office to finally bring an end to the war in Gaza. But that was Monday.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 02:23:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shukr, Fuad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31DC-PREXY-fqlp/31DC-PREXY-fqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>A young Hamas supporter carrying a flag to pay tribute to Ismail Haniyeh, the organization’s political leader, who was killed in Iran on Wednesday. </media:description>
+    </item>
+    <item>
+      <title>Two Al Jazeera Journalists Were Killed in an Israeli Strike on Gaza</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/al-jazeera-journalists-killed-airstrike-gaza.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/al-jazeera-journalists-killed-airstrike-gaza.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/al-jazeera-journalists-killed-airstrike-gaza.html" rel="standout"></atom:link>
+      <description>A reporter and a cameraman were working from or near the house of Ismail Haniyeh, the Hamas political chief who was assassinated on Tuesday.</description>
+      <dc:creator>Ephrat Livni</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 19:20:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Committee to Protect Journalists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-al-jazeera-journalists-mlbk/31mideast-crisis-al-jazeera-journalists-mlbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ayman Al Hassi/Reuters</media:credit>
+      <media:description>Palestinians inspect a vehicle where Al Jazeera TV said its reporter Ismail al-Ghoul and cameraman Ramy El Rify were killed in an Israeli strike, in Gaza City July 31, 2024.</media:description>
+    </item>
+    <item>
+      <title>Iran’s Leader Orders Attack on Israel for Haniyeh Killing, Officials Say</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/iran-orders-attack-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/iran-orders-attack-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/iran-orders-attack-israel.html" rel="standout"></atom:link>
+      <description>Iran’s supreme leader, Ayatollah Ali Khamenei, ordered retaliation after a humiliating security failure, as Iran once again balances showing strength against the risk of escalation.</description>
+      <dc:creator>Farnaz Fassihi</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 19:21:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-iran-security-hlpv/31mideast-crisis-iran-security-hlpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Images of Ismail Haniyeh, a senior Hamas leader who was assassinated in Iran on Wednesday, at a square in Tehran.</media:description>
+    </item>
+    <item>
+      <title>Unrest at Israeli Army Bases Highlights Battle for Country’s Soul</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/israel-army-bases-riots.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/israel-army-bases-riots.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/israel-army-bases-riots.html" rel="standout"></atom:link>
+      <description>After Israeli soldiers were detained on suspicion of abusing a Palestinian, riots broke out that symbolize a wider struggle over Israel’s future that has divided the country.</description>
+      <dc:creator>Patrick Kingsley, Aaron Boxerman and Natan Odenheimer</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 19:27:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sde Teiman (Israel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31israel-vision-01-btfh/31israel-vision-01-btfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Avishag Shaar-Yashuv for The New York Times</media:credit>
+      <media:description>Right-wing protesters demonstrate against the arrest of Israeli soldiers at Beit Lid military base, Israel.</media:description>
+    </item>
+    <item>
+      <title>How Will a Hamas Leader’s Killing Affect Gaza Cease-Fire Talks? </title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-cease-fire-talks-gaza-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-cease-fire-talks-gaza-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-cease-fire-talks-gaza-israel.html" rel="standout"></atom:link>
+      <description>Ismail Haniyeh, who was assassinated in Iran, was a key figure in Hamas’s cease-fire negotiations with Israel and his assassination makes the prospects for a deal even more unclear.</description>
+      <dc:creator>Aaron Boxerman and Adam Rasgon</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 00:03:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-cease-fire-talks-1-zqwg/31mideast-crisis-cease-fire-talks-1-zqwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Israelis in Tel Aviv marked nine months in July since the Oct. 7 attack by Hamas. </media:description>
+    </item>
+    <item>
+      <title>After Haniyeh’s Death, Who Are Hamas’s Most Prominent Leaders?</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-leaders-haniyeh-sinwar-meshal.html" rel="standout"></atom:link>
+      <description>Ismail Haniyeh, who was killed in Iran, was among the most senior members of Hamas’s leadership. Here is a look at others.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 10:10:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deif, Muhammad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Issa, Marwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meshal, Khaled</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-leaders-hamas-1-wjcq/31mideast-crisis-leaders-hamas-1-wjcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Samar Abu Elouf for The New York Times</media:credit>
+      <media:description>Yahya Sinwar, head of the political bureau of Hamas, delivering a speech in 2023 in Gaza City.</media:description>
+    </item>
+    <item>
+      <title>Strikes in Iran and Lebanon Raise Risk of Escalation, but All-Out War Is Not Inevitable</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/iran-lebanon-israel-war-assassination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/iran-lebanon-israel-war-assassination.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/iran-lebanon-israel-war-assassination.html" rel="standout"></atom:link>
+      <description>The scale of the reaction from Iran and its regional proxies to the attacks on two of Israel’s largest foes could determine whether the low-level regional battle tips into a full-scale conflict.</description>
+      <dc:creator>Patrick Kingsley</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 19:13:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-israel-analysis-qgjh/31mideast-crisis-israel-analysis-qgjh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Diego Ibarra Sanchez for The New York Times</media:credit>
+      <media:description>Relatives and Hezbollah supporters carrying the coffins of Amira, 6, and her brother Hassan Fadlallah, 10, who were killed in an Israeli airstrike in Dahiyeh, a suburb of Beirut, Lebanon.</media:description>
+    </item>
+    <item>
+      <title>Haniyeh’s Death Will Shake but Not Destroy Hamas, Analysts Say</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-haniyeh-death.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-haniyeh-death.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-haniyeh-death.html" rel="standout"></atom:link>
+      <description>Hamas will need to scramble to replace Ismail Haniyeh following his killing in Tehran, analysts say, but the group has recovered from past assassinations of its political and military leaders.</description>
+      <dc:creator>Adam Rasgon</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 16:51:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sinwar, Yehya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Doha (Qatar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-future-1-ctqv/31mideast-crisis-future-1-ctqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tyler Hicks/The New York Times</media:credit>
+      <media:description>Ismail Haniyeh, center, in Gaza City in 2012. Mr. Haniyeh was one of Hamas’s most recognizable faces worldwide.</media:description>
+    </item>
+    <item>
+      <title>Will the Assassination of a Hamas Leader Escalate the Risk of a Wider War?</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/hamas-killing-iran-israel-lebanon-war.html" rel="standout"></atom:link>
+      <description>Qatar and Egypt, the main mediators in talks to end the Gaza war, have warned that new assassinations risk plunging the region even deeper into chaos.</description>
+      <dc:creator>Vivian Yee</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 17:12:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/world/31mideast-crisis-regional-sup-top/3131mideast-crisis-regional-sup-top-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Professors gather in front of the University of Tehran on Wednesday to protest the assassination of the Hamas leader Ismail Haniyeh.</media:description>
+    </item>
+    <item>
+      <title>Iran Has Accused Israel of Assassinations on Its Soil Before</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/iran-israel-assassinations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/iran-israel-assassinations.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/iran-israel-assassinations.html" rel="standout"></atom:link>
+      <description>Iran has blamed Israel for a series of targeted killings carried out within its borders.</description>
+      <dc:creator>Qasim Nauman</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 07:17:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Quds Force</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fakhrizadeh, Mohsen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khodayee, Sayad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31mideast-crisis-history-ckzw/31mideast-crisis-history-ckzw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Iran accused Israel of killing Mohsen Fakhrizadeh, a scientist described as a leading figure in its nuclear weapons program, in 2020.</media:description>
+    </item>
+    <item>
+      <title>Ismail Haniyeh, a Top Hamas Leader, Is Dead at 62</title>
+      <link>https://www.nytimes.com/2024/07/31/world/middleeast/ismail-haniyeh-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/middleeast/ismail-haniyeh-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/middleeast/ismail-haniyeh-dead.html" rel="standout"></atom:link>
+      <description>Mr. Haniyeh, the Palestinian militant group’s exiled political chief, managed high-stakes negotiations, including the ongoing cease-fire talks to end the war in Gaza.</description>
+      <dc:creator>Raja Abdulrahim and Ephrat Livni</dc:creator>
+      <pubDate>Thu, 01 Aug 2024 05:50:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/31/multimedia/31haniyeh-ismail-zlgp/31haniyeh-ismail-zlgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi for The New York Times</media:credit>
+      <media:description>Ismail Haniyeh, a senior Hamas leader, was in Tehran on Tuesday for the inauguration ceremony of Iran’s new president.</media:description>
+    </item>
+    <item>
+      <title>War Gives Palestinian Olympians a Wider Role: Athlete-Diplomats</title>
+      <link>https://www.nytimes.com/2024/07/31/world/olympics/palestine-athletes-olympics-paris.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/31/world/olympics/palestine-athletes-olympics-paris.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/31/world/olympics/palestine-athletes-olympics-paris.html" rel="standout"></atom:link>
+      <description>The Israel-Hamas war has given the eight Palestinians competing in Paris Olympics a higher profile than usual.</description>
+      <dc:creator>Tariq Panja and Aaron Boxerman</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 09:36:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30Olympics-Palestinians-01-mpkg/30Olympics-Palestinians-01-mpkg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Berehulak/The New York Times</media:credit>
+      <media:description>The boxer Wasim Abusal competed with a Palestinian flag on his top. </media:description>
+    </item>
+    <item>
+      <title>What We Know About the Assassination of Hamas Leader Ismail Haniyeh</title>
+      <link>https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/30/world/middleeast/ismail-haniyeh-hamas-tehran.html" rel="standout"></atom:link>
+      <description>The top Hamas leader, who was central to the group’s high-stakes negotiations and diplomacy, was killed in Iran’s capital.</description>
+      <dc:creator>Victoria Kim</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 09:22:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haniya, Ismail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/08/30/multimedia/30mideast-crisis-haniyeh-WWK-1-vmtw/30mideast-crisis-haniyeh-WWK-1-vmtw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <media:description>Ismail Haniyeh, a top Hamas leader, in Tehran in March.</media:description>
+    </item>
+    <item>
+      <title>Israel Says It Killed Hezbollah Commander in Airstrike Near Beirut</title>
+      <link>https://www.nytimes.com/2024/07/30/world/middleeast/israel-hezbollah-lebanon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2024/07/30/world/middleeast/israel-hezbollah-lebanon.html</guid>
+      <atom:link href="https://www.nytimes.com/2024/07/30/world/middleeast/israel-hezbollah-lebanon.html" rel="standout"></atom:link>
+      <description>The strike was in retaliation for a deadly rocket attack this weekend in the Golan Heights. At least three civilians were killed and 74 others wounded on Tuesday, Lebanese officials said.</description>
+      <dc:creator>Ronen Bergman, Adam Rasgon, Euan Ward, Farnaz Fassihi and Hwaida Saad</dc:creator>
+      <pubDate>Wed, 31 Jul 2024 16:31:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golan Heights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hamas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beirut (Lebanon)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2024/07/30/multimedia/30mideast-crisis-ledeall01-photo-kljc/30mideast-crisis-ledeall01-photo-kljc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hussein Malla/Associated Press</media:credit>
+      <media:description>A destroyed building in the southern suburbs of Beirut, Lebanon, after an Israeli strike on Tuesday. At least one person was killed.</media:description>
+    </item>
+  </channel>
+</rss>
