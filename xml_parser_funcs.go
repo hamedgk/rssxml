@@ -1,4 +1,4 @@
-package rssparser
+package rssxml
 
 func iterateOpeningTag(text, tag string, idx int, onlyTagName bool) (bool, int) {
 OuterLoop:

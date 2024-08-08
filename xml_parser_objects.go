@@ -1,4 +1,4 @@
-package rssparser
+package rssxml
 
 type AttributesData = map[string]string
 
