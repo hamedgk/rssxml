@@ -6,37 +6,53 @@ import (
 )
 
 var table = []struct {
-	got  string
-	want QueryTokens
+	input    string
+	expected QueryTokens
 }{
 	{
-		got:  "{item}",
-		want: QueryTokens{nil, []Token{{"item", nil}}},
+		input:    "{item}",
+		expected: QueryTokens{nil, []Token{{"item", nil}}},
 	},
 	{
-		got:  "item{item}",
-		want: QueryTokens{[]Token{{"item", nil}}, []Token{{"item", nil}}},
+		input:    "item{item}",
+		expected: QueryTokens{[]Token{{"item", nil}}, []Token{{"item", nil}}},
 	},
 	{
-		got:  "item{title,description}",
-		want: QueryTokens{[]Token{{"item", nil}}, []Token{{"title", nil}, {"description", nil}}},
+		input:    "item{title,description}",
+		expected: QueryTokens{[]Token{{"item", nil}}, []Token{{"title", nil}, {"description", nil}}},
 	},
 	{
-		got:  "item{title,media:content[url],description}",
-		want: QueryTokens{[]Token{{"item", nil}}, []Token{{"title", nil}, {"media:content", []string{"url"}}, {"description", nil}}},
+		input:    "item{title,media:content[url],description}",
+		expected: QueryTokens{[]Token{{"item", nil}}, []Token{{"title", nil}, {"media:content", []string{"url"}}, {"description", nil}}},
 	},
 	{
-		got:  "{title,media:content[url],description}",
-		want: QueryTokens{nil, []Token{{"title", nil}, {"media:content", []string{"url"}}, {"description", nil}}},
+		input:    "{title,media:content[url],description}",
+		expected: QueryTokens{nil, []Token{{"title", nil}, {"media:content", []string{"url"}}, {"description", nil}}},
+	},
+	{
+		input:    "{title,description,media:content[url]}",
+		expected: QueryTokens{nil, []Token{{"title", nil}, {"description", nil}, {"media:content", []string{"url"}}}},
+	},
+	{
+		input: "rss~item{title,description,media:content[url]}",
+		expected: QueryTokens{
+			[]Token{
+				{"rss", nil},
+				{"item", nil},
+			},
+			[]Token{
+				{"title", nil}, {"description", nil}, {"media:content", []string{"url"}},
+			},
+		},
 	},
 }
 
 func TestQuery(t *testing.T) {
 	for _, c := range table {
-		got := ParseRSSQuery(c.got)
-		if !reflect.DeepEqual(got, c.want) {
+		expected := ParseRSSQuery(c.input)
+		if !reflect.DeepEqual(expected, c.expected) {
 			t.Fail()
-			t.Log("failed parsing", c.got)
+			t.Log("failed parsing", c.input)
 		}
 	}
 }
