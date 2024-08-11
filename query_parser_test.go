@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-var table = []struct {
+var queryTable = []struct {
 	input    string
 	expected QueryTokens
 }{
@@ -48,7 +48,7 @@ var table = []struct {
 }
 
 func TestQueryParser(t *testing.T) {
-	for _, c := range table {
+	for _, c := range queryTable {
 		expected := ParseRSSQuery(c.input)
 		if !reflect.DeepEqual(expected, c.expected) {
 			t.Fail()
