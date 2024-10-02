@@ -1,13 +1,11 @@
 package rssxml
 
-type AttributesData = map[string]string
-
 type TagData struct {
 	TagName, Content string
-	Attributes       AttributesData
+	Attributes       map[string]string
 }
 
-func ObjectAttributes(text string, item Token, idx int) (AttributesData, int) {
+func ObjectAttributes(text string, item Token, idx int) (map[string]string, int) {
 	success, idx := iterateOpeningTag(text, item.TagName, idx, true)
 	if !success {
 		return nil, idx
