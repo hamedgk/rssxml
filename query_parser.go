@@ -17,7 +17,7 @@ func ParseRSSQuery(q string) QueryTokens {
 		edge, leaf = Token{}, Token{}
 		tagName    = make([]byte, 0, 4)
 	)
-Outer:
+Loop:
 	for {
 		switch {
 		case i == len(q):
@@ -38,7 +38,7 @@ Outer:
 				tokens.addEdge(edge)
 			}
 			i++
-			break Outer
+			break Loop
 		case q[i] == '[':
 			i++
 			i = parseTagOptions(q, &edge, i)
