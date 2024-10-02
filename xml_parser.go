@@ -82,7 +82,7 @@ func Extract(text string, tokens QueryTokens, idx int) ([]*TagData, int) {
 }
 
 func iterateOpeningTag(text, tag string, idx int, onlyTagName bool) (bool, int) {
-OuterLoop:
+Outer:
 	for idx < len(text) {
 		if text[idx] != '<' {
 			idx++
@@ -92,7 +92,7 @@ OuterLoop:
 		for i := range tag {
 			if tag[i] != text[idx] {
 				idx = skipUntil(text, '>', idx)
-				continue OuterLoop
+				continue Outer
 			}
 			idx++
 		}
@@ -107,7 +107,7 @@ OuterLoop:
 
 func iterateClosingTag(text, tag string, idx int) (bool, int) {
 	var beginTagIdx int
-OuterLoop:
+Outer:
 	for idx < len(text) {
 		if text[idx] != '<' || text[idx+1] != '/' {
 			idx++
@@ -118,7 +118,7 @@ OuterLoop:
 		for i := range tag {
 			if tag[i] != text[idx] {
 				idx = skipUntil(text, '>', idx)
-				continue OuterLoop
+				continue Outer
 			}
 			idx++
 		}
