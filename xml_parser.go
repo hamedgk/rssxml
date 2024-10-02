@@ -10,7 +10,7 @@ func ObjectAttributes(text string, item Token, idx int) (map[string]string, int)
 	if !success {
 		return nil, idx
 	}
-	m := make(map[string]string)
+	m := map[string]string{}
 	for _, attribute := range item.Attributes {
 		success, startContentIdx, endContentIdx := iterateAttribute(text, attribute, idx)
 		if !success {

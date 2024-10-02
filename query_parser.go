@@ -40,8 +40,7 @@ Loop:
 			i++
 			break Loop
 		case q[i] == '[':
-			i++
-			i = parseTagAttributes(q, &edge, i)
+			i = parseTagAttributes(q, &edge, i+1)
 		default:
 			tagName = append(tagName, q[i])
 			i++
