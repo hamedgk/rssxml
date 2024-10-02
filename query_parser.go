@@ -41,7 +41,7 @@ Loop:
 			break Loop
 		case q[i] == '[':
 			i++
-			i = parseTagOptions(q, &edge, i)
+			i = parseTagAttributes(q, &edge, i)
 		default:
 			tagName = append(tagName, q[i])
 			i++
@@ -65,7 +65,7 @@ Loop:
 			return tokens
 		case q[i] == '[':
 			i++
-			i = parseTagOptions(q, &leaf, i)
+			i = parseTagAttributes(q, &leaf, i)
 		default:
 			tagName = append(tagName, q[i])
 			i++
@@ -85,8 +85,8 @@ func (qt *QueryTokens) addLeaf(t Token) {
 	qt.Leaves = append(qt.Leaves, t)
 }
 
-func parseTagOptions(q string, t *Token, i int) int {
-	attribute := make([]byte, 0)
+func parseTagAttributes(q string, t *Token, i int) int {
+	attribute := make([]byte, 0, 4)
 	for {
 		switch {
 		case q[i] == ']':
