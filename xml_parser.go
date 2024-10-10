@@ -23,39 +23,39 @@ func ObjectAttributes(text string, item Token, idx int) (map[string]string, int)
 	return m, idx
 }
 
-func ObjectTag(text string, item Token, idx int) (*TagData, int) {
+func ObjectTag(text string, item Token, idx int) (TagData, int) {
 	success, startContentIdx := iterateOpeningTag(text, item.TagName, idx, false)
 	if !success {
-		return nil, startContentIdx
+		return TagData{}, 0
 	}
 	success, endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
 	if !success {
-		return nil, endContentIdx
+		return TagData{}, 0
 	}
-	return &TagData{
+	return TagData{
 		TagName: item.TagName,
 		Content: text[startContentIdx:endContentIdx],
 	}, endContentIdx
 }
 
-func ObjectTagWithAttributes(text string, item Token, idx int) (*TagData, int) {
+func ObjectTagWithAttributes(text string, item Token, idx int) (TagData, int) {
 	attributes, startContentIdx := ObjectAttributes(text, item, idx)
 	if attributes == nil {
-		return nil, startContentIdx
+		return TagData{}, 0
 	}
 	success, endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
 	if !success {
-		return nil, endContentIdx
+		return TagData{}, 0
 	}
-	return &TagData{
+	return TagData{
 		TagName:    item.TagName,
 		Content:    text[startContentIdx:endContentIdx],
 		Attributes: attributes,
 	}, endContentIdx
 }
 
-func Extract(text string, tokens QueryTokens, idx int) ([]*TagData, int) {
-	var data []*TagData
+func Extract(text string, tokens QueryTokens, idx int) (map[string]TagData, int) {
+	var data = map[string]TagData{}
 	var regression int = idx
 	for _, edge := range tokens.Edges {
 		var success bool
@@ -66,17 +66,18 @@ func Extract(text string, tokens QueryTokens, idx int) ([]*TagData, int) {
 		regression = idx
 	}
 	for _, leaf := range tokens.Leaves {
-		var tagData *TagData
+		var tagData TagData
 		if leaf.Attributes == nil {
 			tagData, idx = ObjectTag(text, leaf, regression)
 		} else {
 			tagData, idx = ObjectTagWithAttributes(text, leaf, regression)
 		}
-		if tagData == nil {
+		//returning zero indicates failure
+		if idx == 0 {
 			continue
 		}
 		regression = idx
-		data = append(data, tagData)
+		data[tagData.TagName] = tagData
 	}
 	return data, regression
 }
