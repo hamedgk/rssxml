@@ -67,6 +67,27 @@ var extractTable = []struct {
 			},
 		},
 	},
+	{
+		query: "item~item{title,link,category,media:content[url]}",
+		expected: map[string]TagData{
+			"title": {
+				TagName: "title",
+				Content: "Who Is Yahya Sinwar, Hamas’s New Political Leader?",
+			},
+			"link": {
+				TagName: "link",
+				Content: "https://www.nytimes.com/2024/08/06/world/middleeast/yahya-sinwar-hamas.html",
+			},
+			"category": {
+				TagName: "category",
+				Content: "Hamas",
+			},
+			"media:content": {
+				TagName:    "media:content",
+				Attributes: map[string]string{"url": "https://static01.nyt.com/images/2024/08/06/multimedia/06mideast-crisis-sinwar-bio01-pltq/06mideast-crisis-sinwar-bio01-pltq-mediumSquareAt3X.jpg"},
+			},
+		},
+	},
 }
 
 func TestXMLParser(t *testing.T) {
@@ -87,6 +108,7 @@ func runTest(t *testing.T, text string) {
 		output, _ := Extract(text, tokens, 0)
 		if !reflect.DeepEqual(c.expected, output) {
 			t.Log("failed extracting", c.query)
+			t.Logf("%#v", output)
 			t.Fail()
 		}
 	}
