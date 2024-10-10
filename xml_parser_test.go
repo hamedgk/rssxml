@@ -88,6 +88,20 @@ var extractTable = []struct {
 			},
 		},
 	},
+	{
+		query: "item~item~item{category[domain],media:content[width]}",
+		expected: map[string]TagData{
+			"category": {
+				TagName:    "category",
+				Content:    "Capital Punishment",
+				Attributes: map[string]string{"domain": "http://www.nytimes.com/namespaces/keywords/des"},
+			},
+			"media:content": {
+				TagName:    "media:content",
+				Attributes: map[string]string{"width": "1800"},
+			},
+		},
+	},
 }
 
 func TestXMLParser(t *testing.T) {
