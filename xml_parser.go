@@ -55,8 +55,8 @@ func ObjectTagWithAttributes(text string, item Token, idx int) (TagData, int) {
 }
 
 func Extract(text string, tokens QueryTokens, idx int) (map[string]TagData, int) {
-	var data = map[string]TagData{}
-	var regression int = idx
+	data := map[string]TagData{}
+	regression := idx
 	for _, edge := range tokens.Edges {
 		var success bool
 		success, idx = iterateOpeningTag(text, edge.TagName, regression, false)
