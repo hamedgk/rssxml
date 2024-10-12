@@ -6,14 +6,14 @@ type TagData struct {
 }
 
 func ObjectAttributes(text string, item Token, idx int) (map[string]string, int) {
-	success, idx := iterateOpeningTag(text, item.TagName, idx, true)
-	if !success {
+	idx = iterateOpeningTag(text, item.TagName, idx, true)
+	if idx == 0 {
 		return nil, idx
 	}
 	m := map[string]string{}
 	for _, attribute := range item.Attributes {
-		success, startContentIdx, endContentIdx := iterateAttribute(text, attribute, idx)
-		if !success {
+		startContentIdx, endContentIdx := iterateAttribute(text, attribute, idx)
+		if startContentIdx == 0 && endContentIdx == 0 {
 			return nil, idx
 		}
 		m[attribute] = text[startContentIdx:endContentIdx]
@@ -24,12 +24,12 @@ func ObjectAttributes(text string, item Token, idx int) (map[string]string, int)
 }
 
 func ObjectTag(text string, item Token, idx int) (TagData, int) {
-	success, startContentIdx := iterateOpeningTag(text, item.TagName, idx, false)
-	if !success {
+	startContentIdx := iterateOpeningTag(text, item.TagName, idx, false)
+	if startContentIdx == 0 {
 		return TagData{}, 0
 	}
-	success, endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
-	if !success {
+	endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
+	if endContentIdx == 0 {
 		return TagData{}, 0
 	}
 	return TagData{
@@ -43,8 +43,8 @@ func ObjectTagWithAttributes(text string, item Token, idx int) (TagData, int) {
 	if attributes == nil {
 		return TagData{}, 0
 	}
-	success, endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
-	if !success {
+	endContentIdx := iterateClosingTag(text, item.TagName, startContentIdx)
+	if endContentIdx == 0 {
 		return TagData{}, 0
 	}
 	return TagData{
@@ -58,9 +58,8 @@ func Extract(text string, tokens QueryTokens, idx int) (map[string]TagData, int)
 	data := map[string]TagData{}
 	regression := idx
 	for _, edge := range tokens.Edges {
-		var success bool
-		success, idx = iterateOpeningTag(text, edge.TagName, regression, false)
-		if !success {
+		idx = iterateOpeningTag(text, edge.TagName, regression, false)
+		if idx == 0 {
 			continue
 		}
 		regression = idx
@@ -82,7 +81,7 @@ func Extract(text string, tokens QueryTokens, idx int) (map[string]TagData, int)
 	return data, regression
 }
 
-func iterateOpeningTag(text, tag string, idx int, onlyTagName bool) (bool, int) {
+func iterateOpeningTag(text, tag string, idx int, onlyTagName bool) int {
 Outer:
 	for idx < len(text) {
 		if text[idx] != '<' {
@@ -98,15 +97,15 @@ Outer:
 			idx++
 		}
 		if onlyTagName {
-			return true, idx
+			return idx
 		}
 		idx = skipUntil(text, '>', idx)
-		return true, idx
+		return idx
 	}
-	return false, idx
+	return 0
 }
 
-func iterateClosingTag(text, tag string, idx int) (bool, int) {
+func iterateClosingTag(text, tag string, idx int) int {
 	var beginTagIdx int
 Outer:
 	for idx < len(text) {
@@ -123,12 +122,12 @@ Outer:
 			}
 			idx++
 		}
-		return true, beginTagIdx
+		return beginTagIdx
 	}
-	return false, idx
+	return 0
 }
 
-func iterateAttribute(text, attribute string, idx int) (bool, int, int) {
+func iterateAttribute(text, attribute string, idx int) (int, int) {
 	idx = skipWhile(text, ' ', idx)
 	i := 0
 	for i < len(attribute) {
@@ -136,7 +135,7 @@ func iterateAttribute(text, attribute string, idx int) (bool, int, int) {
 			for text[idx] != ' ' {
 				idx++
 				if text[idx] == '>' {
-					return false, idx + 1, 0
+					return 0, 0
 				}
 			}
 			idx = skipWhile(text, ' ', idx)
@@ -149,7 +148,7 @@ func iterateAttribute(text, attribute string, idx int) (bool, int, int) {
 	idx = skipUntil(text, '"', idx)
 	beginAttributeIdx := idx
 	idx = skipUntil(text, '"', idx)
-	return true, beginAttributeIdx, idx - 1
+	return beginAttributeIdx, idx - 1
 }
 
 func skipUntil(text string, c byte, idx int) int {
